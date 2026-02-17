@@ -1,2 +1,1 @@
-# hello-world
-Este repositorio es para prácticar el flujo de GitHub
+# Mi nombre es Camila, tengo 20 años y soy ICA, soy alguien muy hiperactiva pero a la vez muy insegura, me gusta mucho la música, escribir poesía, los insectos y la microbiología. Aprendí a tocar el piano a los 9 años y quiero ser investigadora.
